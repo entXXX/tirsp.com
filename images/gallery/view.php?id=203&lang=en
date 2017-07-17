@@ -1,0 +1,4 @@
+<br />
+<b>Warning</b>:  imagejpeg(): Filename cannot be empty in <b>/var/www/daf/data/www/daftrucks.kiev.ua/includes/images.inc.php</b> on line <b>95</b><br />
+<br />
+<b>Warning</b>:  fopen(en/cache/6d5342205934ba22b4e4d1d8268aa640.jpg): failed to open stream: Permission denied in <b>/var/www/daf/data/www/daftrucks.kiev.ua/includes/engine.inc.php</b> on line <b>1476</b><br />
